@@ -67,7 +67,7 @@ Este repositorio se distribuye con fines **educativos y académicos**.
 
 ## ✍️ Autora
 
-**Cecilia Fernanda San Miguel Iturria**  
+**_Cecilia Fernanda San Miguel Iturria_**  
 Tesina para la obtención del grado de Ingeniera en Computación  
-Universidad Nacional Autónoma de México (UNAM)
+Facultad de Ingeniería, Universidad Nacional Autónoma de México (UNAM)
 
